@@ -8,6 +8,18 @@ Hydrohelper is a waterbottle which helps its users keep track of water consumpti
 ## Overview
 Front-end code, back-end code, and 3D printed part files for the Hydrohelper water bottle. Hardware consists of an Arduino Nano, HC-06 Bluetooth module, HC-SR04 Ultrasonic sensor, and 16x2 Arduino LCD. The code manages these devices and communicates information to the companion Android app. 
 
+## Hardware and Parts
+### Arduino Hardware 
+Arduino Nano, HC-SR-04 Ultrasonic sensor, HC-06 Bluetooth Module, 16x2 Arduino LCD. 
+
+### Bottom Mount.STEP
+The SolidWorks file for the bottom mount attached under our water bottle. 
+
+### Side Mount FINAL.STEP
+The SolidWorks file for the side mount atttached to the side of our water bottle meant for the LCD.
+
+### Final Assembly.SLDASM 
+Final assembly of parts for the bottle.
 
 ## How It Works
 ### app-release.apk
