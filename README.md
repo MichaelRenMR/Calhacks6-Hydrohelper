@@ -1,4 +1,6 @@
 # Calhacks6-Hydrohelper
+![](logo.png)
+
 Hydrohelper is a waterbottle which helps its users keep track of water consumption. The smart bottle keeps track of how much water one has drank in any given day and sends that information to a companion app over Bluetooth. 
 
 ## Overview
