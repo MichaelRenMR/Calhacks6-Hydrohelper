@@ -21,5 +21,8 @@ Manages communication of data from the app to the Arduino through the Bluetooth 
 Helper functions average() and calculateSD() to allow Arduino_to_Phone to perform some statistical analysis and determine whether or not to send its readings to the app. 
 
 ## Usage 
-Download the app .apk file onto an Android phone (targeting Android 9). Connect to "HC-06" via Bluetooth using password '1234'. Turn on the bottle and then click Connect within the app. 
+1. Download the app .apk file onto an Android phone (targeting Android 9). 
+2. Connect to "HC-06" via Bluetooth using password '1234'. 
+3. Turn on the bottle and then click Connect within the app. 
+
 Tracking will begin immediately. The current implementation takes measurements every 5 seconds and skips some statistical analysis methods for testing purposes. In real world use, these methods would be enabled and measurements would be taken in 60 second intervals. 
