@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">H2OHelper</string>
+    <string name="curr">Amount Drank</string>
+    <string name="goal">Daily Goal</string>
+    <string name="def">Loading...</string>
+
+</resources>
